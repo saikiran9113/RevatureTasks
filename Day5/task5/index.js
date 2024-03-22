@@ -10,9 +10,9 @@
 </div> */
 
 const users = [
-    { name: "Alice", city: "New York", age: 30 },
-    { name: "Bob", city: "Los Angeles", age: 25 },
-    { name: "Charlie", city: "Chicago", age: 35 }
+    { name: "sai", city: "tirupati", age: 23 },
+    { name: "kiran", city: "chittoor", age: 20 },
+    { name: "nova", city: "goa", age: 25 }
 ];
 
 function printNames() {

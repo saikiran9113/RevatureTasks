@@ -18,7 +18,7 @@ function changebg2(){
 }
 
 function changebg3(){
-    div3.style.backgroundImage = url("https://tse1.mm.bing.net/th?id=OIP.4K7bK-hTXXHsoJuJxNtzigHaCU&pid=Api&P=0&h=180")
+    div3.style.backgroundImage = "url('https://tse1.mm.bing.net/th?id=OIP.4K7bK-hTXXHsoJuJxNtzigHaCU&pid=Api&P=0&h=180')"
 }
 
 function changebg4(){
